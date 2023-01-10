@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah rabie</h1>
 <h3 align="center">A passionate embedded software devoloper</h3>
 
-- linkedin link [https://www.linkedin.com/in/abdallah-rabie-732703199/](https://www.linkedin.com/in/abdallah-rabie-732703199/)
+- Linkedin  [https://www.linkedin.com/in/abdallah-rabie45/]((https://www.linkedin.com/in/abdallah-rabie45/))
 
 - 📫 How to reach me **abdallahrabie45@gmail.com**
 
